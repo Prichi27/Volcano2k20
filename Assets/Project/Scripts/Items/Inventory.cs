@@ -42,4 +42,9 @@ public class Inventory : MonoBehaviour
             onItemChangedCallback.Invoke();
         }
     }
+
+    public bool CheckItem(Item item)
+    {
+        return items.Contains(item);
+    }
 }
