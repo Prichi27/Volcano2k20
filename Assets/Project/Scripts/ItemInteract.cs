@@ -3,29 +3,16 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class ItemInteract : MonoBehaviour
+public abstract class ItemInteract : MonoBehaviour
 {
-    private bool _playerInRange;
+    internal bool playerInRange;
     public GameObject contextClue;
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
 
     private void OnCollisionEnter2D(Collision2D other) 
     {
         if(other.gameObject.CompareTag("Player"))
         {
-            _playerInRange = true;
-
+            playerInRange = true;
             contextClue.SetActive(true);
         }
     }
@@ -34,8 +21,10 @@ public class ItemInteract : MonoBehaviour
     {
         if(other.gameObject.CompareTag("Player"))
         {
-            _playerInRange = false;
+            playerInRange = false;
             contextClue.SetActive(false);
         }
     }
+
+    internal abstract void Action();
 }
