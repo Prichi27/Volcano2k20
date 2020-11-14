@@ -6,6 +6,7 @@ public class DialogueTrigger : ItemInteract
 {
     public Dialogue dialogues;
 
+    // TODO: Remove pls
     public void TriggerDialogue()
     {
         FindObjectOfType<DialogueManager>().StartDialogue(dialogues);
