@@ -1,16 +1,19 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Tilemaps;
 
 public class FlyingTrigger : ItemInteract
 {
     private GameObject _player;
     private GameObject _turtle;
+    private GameObject _background;
 
     private SpriteRenderer _spriteRenderer;
     private Sprite _defaultSprite;
-
     public Sprite tortuga;
+
+    public List<Item> items;
 
     private bool _isFlying = false;
 
@@ -19,6 +22,7 @@ public class FlyingTrigger : ItemInteract
     {
         _turtle = GameObject.FindGameObjectWithTag("Turtle");
         _player = GameObject.FindGameObjectWithTag("Player");
+        _background = GameObject.FindGameObjectWithTag("Background");
 
         _spriteRenderer = _player.GetComponent<SpriteRenderer>();
         _defaultSprite = _spriteRenderer.sprite;
@@ -28,7 +32,7 @@ public class FlyingTrigger : ItemInteract
     // Update is called once per frame
     void Update()
     {
-        if (playerInRange && Input.GetKeyDown(KeyCode.E)) Action();
+        if (playerInRange && Input.GetKeyDown(KeyCode.E) && CanFly()) Action();
 
         if (playerInRange && !_isFlying && Input.GetKeyDown(KeyCode.Q)) Debug.Log("Hugssss");
         
@@ -54,6 +58,9 @@ public class FlyingTrigger : ItemInteract
             // Hide turtle and remove its collider
             _turtle.GetComponent<Renderer>().enabled = false;
             _turtle.GetComponent<Collider2D>().enabled = false;
+
+            // Disable background collider when flying
+            _background.GetComponent<TilemapCollider2D>().enabled = false;
         }
         else
         {
@@ -71,7 +78,25 @@ public class FlyingTrigger : ItemInteract
             _turtle.transform.position = _player.transform.localPosition;
             _turtle.GetComponent<Renderer>().enabled = true;
             _turtle.GetComponent<Collider2D>().enabled = true;
+
+            // Enable background collider
+            _background.GetComponent<TilemapCollider2D>().enabled = true;
         }
     }
 
+    private bool CanFly()
+    {
+
+        foreach (Item item in items)
+        {
+            if (!Inventory.instance.CheckItem(item))
+            {
+                Debug.Log("Go collect items!");
+                return false;
+            }
+
+        }
+
+        return true;
+    }
 }
