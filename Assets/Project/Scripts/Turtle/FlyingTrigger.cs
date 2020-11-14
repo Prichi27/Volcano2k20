@@ -24,10 +24,13 @@ public class FlyingTrigger : ItemInteract
         _defaultSprite = _spriteRenderer.sprite;
     }
 
+
     // Update is called once per frame
     void Update()
     {
         if (playerInRange && Input.GetKeyDown(KeyCode.E)) Action();
+
+        if (playerInRange && !_isFlying && Input.GetKeyDown(KeyCode.Q)) Debug.Log("Hugssss");
         
         if (_isFlying && Input.GetKeyDown(KeyCode.Q)) Action();
     }

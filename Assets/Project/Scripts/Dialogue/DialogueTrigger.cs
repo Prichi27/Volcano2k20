@@ -12,11 +12,6 @@ public class DialogueTrigger : ItemInteract
         FindObjectOfType<DialogueManager>().StartDialogue(dialogues);
     }
 
-    private void Update()
-    {
-        if (playerInRange && Input.GetKeyDown(KeyCode.E)) Action();
-    }
-
     internal override void Action()
     {
         FindObjectOfType<DialogueManager>().StartDialogue(dialogues);

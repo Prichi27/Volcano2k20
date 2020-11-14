@@ -6,23 +6,32 @@ using UnityEngine.UI;
 public abstract class ItemInteract : MonoBehaviour
 {
     internal bool playerInRange;
-    public GameObject contextClue;
+    private GameObject _contextClue;
 
-    private void OnCollisionEnter2D(Collision2D other) 
+    private void Awake()
     {
-        if(other.gameObject.CompareTag("Player"))
+        _contextClue = GameObject.FindGameObjectWithTag("ContextClue");
+    }
+    private void Update()
+    {
+        if (playerInRange && Input.GetKeyDown(KeyCode.E)) Action();
+    }
+
+    private void OnCollisionEnter2D(Collision2D other)
+    {
+        if (other.gameObject.CompareTag("Player"))
         {
             playerInRange = true;
-            contextClue.SetActive(true);
+            _contextClue.GetComponent<Renderer>().enabled = true;
         }
     }
 
-    private void OnCollisionExit2D(Collision2D other) 
+    private void OnCollisionExit2D(Collision2D other)
     {
-        if(other.gameObject.CompareTag("Player"))
+        if (other.gameObject.CompareTag("Player"))
         {
             playerInRange = false;
-            contextClue.SetActive(false);
+            _contextClue.GetComponent<Renderer>().enabled = false;
         }
     }
 
