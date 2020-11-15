@@ -30,7 +30,7 @@ public class FlyingTrigger : ItemInteract
     // Update is called once per frame
     void Update()
     {
-        if (playerInRange && Input.GetKeyDown(KeyCode.E) && CanInteract()) Action();
+        if (playerInRange && Input.GetKeyDown(KeyCode.E) && CanFly()) Action();
 
         if (playerInRange && !_isFlying && Input.GetKeyDown(KeyCode.Q)) Debug.Log("Hugssss");
         
@@ -80,5 +80,29 @@ public class FlyingTrigger : ItemInteract
             // Enable background collider
             _background.GetComponent<TilemapCollider2D>().enabled = true;
         }
+    }
+
+    private bool CanFly()
+    {
+
+        foreach (Item item in items)
+        {
+            if (!Inventory.instance.CheckItem(item))
+            {
+                Debug.Log("Go collect items!");
+                return false;
+            }
+
+        }
+
+        return true;
+    }
+
+    private bool CanLand()
+    {
+
+
+        return false;
+
     }
 }
