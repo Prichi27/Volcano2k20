@@ -10,8 +10,8 @@ public class FlyingTrigger : ItemInteract
     private GameObject _background;
 
     private SpriteRenderer _spriteRenderer;
-    private Sprite _defaultSprite;
-    public Sprite tortuga;
+    //private Sprite _defaultSprite;
+    //public Sprite tortuga;
 
     private bool _isFlying = false;
 
@@ -23,7 +23,7 @@ public class FlyingTrigger : ItemInteract
         _background = GameObject.FindGameObjectWithTag("Background");
 
         _spriteRenderer = _player.GetComponent<SpriteRenderer>();
-        _defaultSprite = _spriteRenderer.sprite;
+        //_defaultSprite = _spriteRenderer.sprite;
     }
 
 
@@ -51,7 +51,7 @@ public class FlyingTrigger : ItemInteract
             _player.GetComponent<PlayerSkyMovement>().enabled = true;
 
             // Change Sprite
-            _spriteRenderer.sprite = tortuga;
+            //_spriteRenderer.sprite = tortuga;
 
             _player.GetComponent<Animator>().SetBool("Fly", true);
 
@@ -60,7 +60,7 @@ public class FlyingTrigger : ItemInteract
             _turtle.GetComponent<Collider2D>().enabled = false;
 
             // Disable background collider when flying
-            _background.GetComponent<TilemapCollider2D>().enabled = false;
+            //_background.GetComponent<PolygonCollider2D>().enabled = false;
         }
         else
         {
@@ -69,7 +69,7 @@ public class FlyingTrigger : ItemInteract
             _player.GetComponent<PlayerGroundMovement>().enabled = true;
             _player.GetComponent<PlayerSkyMovement>().enabled = false;
 
-            _spriteRenderer.sprite = _defaultSprite;
+            //_spriteRenderer.sprite = _defaultSprite;
 
             _player.GetComponent<Animator>().SetBool("Fly", false);
 
@@ -83,7 +83,7 @@ public class FlyingTrigger : ItemInteract
             _turtle.GetComponent<Collider2D>().enabled = true;
 
             // Enable background collider
-            _background.GetComponent<TilemapCollider2D>().enabled = true;
+            //_background.GetComponent<PolygonCollider2D>().enabled = true;
         }
     }
 
