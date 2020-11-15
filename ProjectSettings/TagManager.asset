@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Turtle
+  - ContextClue
+  - Background
   layers:
   - Default
   - TransparentFX
@@ -44,11 +47,17 @@ TagManager:
   - name: Background
     uniqueID: 4151030689
     locked: 0
+  - name: Foliage
+    uniqueID: 2449321661
+    locked: 0
   - name: Foreground
     uniqueID: 1754625847
     locked: 0
   - name: Player
     uniqueID: 1571405113
+    locked: 0
+  - name: Leaves
+    uniqueID: 2175828679
     locked: 0
   - name: Breakable
     uniqueID: 2678197103
