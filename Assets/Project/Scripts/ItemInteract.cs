@@ -7,6 +7,7 @@ public abstract class ItemInteract : MonoBehaviour
 {
     internal bool playerInRange;
     private GameObject _contextClue;
+    public List<Item> items;
 
     private void Awake()
     {
@@ -36,4 +37,26 @@ public abstract class ItemInteract : MonoBehaviour
     }
 
     internal abstract void Action();
+
+    internal bool CanInteract()
+    {
+        if (items.Count == 0)
+        {
+            return true;
+        }
+        else
+        {
+            foreach (Item item in items)
+            {
+                if (!Inventory.instance.CheckItem(item))
+                {
+                    Debug.Log("Go collect items!");
+                    return false;
+                }
+
+            }
+
+            return true;
+        }
+    }
 }

@@ -4,8 +4,6 @@ using UnityEngine;
 
 public class ItemUse : ItemInteract
 {
-    public List<Item> items;
-
     internal override void Action()
     {
 
