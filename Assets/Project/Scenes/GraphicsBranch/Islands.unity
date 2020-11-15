@@ -14572,6 +14572,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1444560202}
   - component: {fileID: 1444560203}
+  - component: {fileID: 1444560204}
   m_Layer: 0
   m_Name: TurtleIsland_2
   m_TagString: Untagged
@@ -14644,6 +14645,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1444560204
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1444560201}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a33afe2e9570a54d8a5e20cff00d4d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1450320808
 GameObject:
   m_ObjectHideFlags: 0
@@ -20865,6 +20878,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2039724670}
   - component: {fileID: 2039724671}
+  - component: {fileID: 2039724672}
   m_Layer: 0
   m_Name: Soil
   m_TagString: Untagged
@@ -20936,6 +20950,18 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &2039724672
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2039724669}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a33afe2e9570a54d8a5e20cff00d4d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &2043036313
 PrefabInstance:
   m_ObjectHideFlags: 0

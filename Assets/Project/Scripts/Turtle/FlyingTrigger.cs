@@ -61,6 +61,7 @@ public class FlyingTrigger : ItemInteract
 
             // Disable background collider when flying
             //_background.GetComponent<PolygonCollider2D>().enabled = false;
+            _player.GetComponent<CapsuleCollider2D>().isTrigger = true;
         }
         else
         {
@@ -84,6 +85,8 @@ public class FlyingTrigger : ItemInteract
 
             // Enable background collider
             //_background.GetComponent<PolygonCollider2D>().enabled = true;
+            _player.GetComponent<CapsuleCollider2D>().isTrigger = false;
+
         }
     }
 
