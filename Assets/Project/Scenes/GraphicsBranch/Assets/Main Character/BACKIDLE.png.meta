@@ -1,0 +1,1100 @@
+fileFormatVersion: 2
+guid: 9054361700b03174e8949880ce3ae4ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1390529575916716899
+    second: BACKIDLE_0
+  - first:
+      213: -7816615645059356631
+    second: BACKIDLE_1
+  - first:
+      213: -6389110948117677156
+    second: BACKIDLE_2
+  - first:
+      213: -6324327302539664359
+    second: BACKIDLE_3
+  - first:
+      213: -7477236154392525270
+    second: BACKIDLE_4
+  - first:
+      213: -5873003132109059974
+    second: BACKIDLE_5
+  - first:
+      213: -9109406622694752313
+    second: BACKIDLE_6
+  - first:
+      213: 5415961219849786103
+    second: BACKIDLE_7
+  - first:
+      213: -4097712061559820762
+    second: BACKIDLE_8
+  - first:
+      213: -8219910689166568274
+    second: BACKIDLE_9
+  - first:
+      213: 7511700934628228985
+    second: BACKIDLE_10
+  - first:
+      213: 525060272536206417
+    second: BACKIDLE_11
+  - first:
+      213: 2788336239749898798
+    second: BACKIDLE_12
+  - first:
+      213: 6079532949812744561
+    second: BACKIDLE_13
+  - first:
+      213: 5972168136230318354
+    second: BACKIDLE_14
+  - first:
+      213: -4298578410788630771
+    second: BACKIDLE_15
+  - first:
+      213: 1303426365974323421
+    second: BACKIDLE_16
+  - first:
+      213: -7105047712140236093
+    second: BACKIDLE_17
+  - first:
+      213: -3140106912084074676
+    second: BACKIDLE_18
+  - first:
+      213: 5287776777623531954
+    second: BACKIDLE_19
+  - first:
+      213: -2429931291389026798
+    second: BACKIDLE_20
+  - first:
+      213: 1616090262181913955
+    second: BACKIDLE_21
+  - first:
+      213: -282247470144475758
+    second: BACKIDLE_22
+  - first:
+      213: -5600361054394253001
+    second: BACKIDLE_23
+  - first:
+      213: 4380871542382156510
+    second: BACKIDLE_24
+  - first:
+      213: -1991072664818279744
+    second: BACKIDLE_25
+  - first:
+      213: 4506370452539333778
+    second: BACKIDLE_26
+  - first:
+      213: 5842629197361633953
+    second: BACKIDLE_27
+  - first:
+      213: -3224022145619254208
+    second: BACKIDLE_28
+  - first:
+      213: 6427957438908083197
+    second: BACKIDLE_29
+  - first:
+      213: 1453472234858682681
+    second: BACKIDLE_30
+  - first:
+      213: -438680779424047966
+    second: BACKIDLE_31
+  - first:
+      213: 7663665044497137085
+    second: BACKIDLE_32
+  - first:
+      213: 3042065959519299236
+    second: BACKIDLE_33
+  - first:
+      213: 3869004977326104144
+    second: BACKIDLE_34
+  - first:
+      213: 2888669876026727525
+    second: BACKIDLE_35
+  - first:
+      213: 2859414916362791930
+    second: BACKIDLE_0
+  - first:
+      213: -4336381837795630684
+    second: BACKIDLE_1
+  - first:
+      213: 3903454210185373787
+    second: BACKIDLE_2
+  - first:
+      213: 331334432080709966
+    second: BACKIDLE_3
+  - first:
+      213: 3688783662533576865
+    second: BACKIDLE_4
+  - first:
+      213: -8695878197889841067
+    second: BACKIDLE_5
+  - first:
+      213: -3657174590430843504
+    second: BACKIDLE_6
+  - first:
+      213: 5984137047821110405
+    second: BACKIDLE_7
+  - first:
+      213: 749535471813289144
+    second: BACKIDLE_8
+  - first:
+      213: -5724678515025578263
+    second: BACKIDLE_9
+  - first:
+      213: 1625714654313832099
+    second: BACKIDLE_10
+  - first:
+      213: 1354207848272673568
+    second: BACKIDLE_11
+  - first:
+      213: -3954704914987278016
+    second: BACKIDLE_12
+  - first:
+      213: 7681157068221904307
+    second: BACKIDLE_13
+  - first:
+      213: -2863510531219431340
+    second: BACKIDLE_14
+  - first:
+      213: 8843759509196523460
+    second: BACKIDLE_15
+  - first:
+      213: 4973840699719421140
+    second: BACKIDLE_16
+  - first:
+      213: -730131923107029348
+    second: BACKIDLE_17
+  - first:
+      213: -562964668594558417
+    second: BACKIDLE_18
+  - first:
+      213: -4138662527853478478
+    second: BACKIDLE_19
+  - first:
+      213: -4659619915278739436
+    second: BACKIDLE_20
+  - first:
+      213: -5459202322269559424
+    second: BACKIDLE_21
+  - first:
+      213: -119095099038378144
+    second: BACKIDLE_22
+  - first:
+      213: 2447782682599894172
+    second: BACKIDLE_23
+  - first:
+      213: -7041657389304356077
+    second: BACKIDLE_24
+  - first:
+      213: 7892940017255146500
+    second: BACKIDLE_25
+  - first:
+      213: -3862369138890008202
+    second: BACKIDLE_26
+  - first:
+      213: -2572801255162375374
+    second: BACKIDLE_27
+  - first:
+      213: 7388844932897083326
+    second: BACKIDLE_28
+  - first:
+      213: -7443662530873091406
+    second: BACKIDLE_29
+  - first:
+      213: -1187230179079220217
+    second: BACKIDLE_30
+  - first:
+      213: 7443985124867100827
+    second: BACKIDLE_31
+  - first:
+      213: 4201519734470718367
+    second: BACKIDLE_32
+  - first:
+      213: -8594983037138071945
+    second: BACKIDLE_33
+  - first:
+      213: -2474109793654119249
+    second: BACKIDLE_34
+  - first:
+      213: 8867176710518418257
+    second: BACKIDLE_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BACKIDLE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3610
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbe14377beaea720800000000000000
+      internalID: 2859414916362791930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_1
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 3610
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a16cb391b312d3c0800000000000000
+      internalID: -4336381837795630684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_2
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 3610
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b582a1b3ceadb2630800000000000000
+      internalID: 3903454210185373787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_3
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 3610
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e49c60619e2299400800000000000000
+      internalID: 331334432080709966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_4
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 3610
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a804927231313330800000000000000
+      internalID: 3688783662533576865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_5
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 3610
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55846bc0ad8025780800000000000000
+      internalID: -8695878197889841067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2888
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09de8c7261b1f3dc0800000000000000
+      internalID: -3657174590430843504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_7
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2888
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cc1ae80fceb0350800000000000000
+      internalID: 5984137047821110405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_8
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 2888
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b46cf75a82e66a00800000000000000
+      internalID: 749535471813289144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_9
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 2888
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6f692a83bdd80b0800000000000000
+      internalID: -5724678515025578263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_10
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 2888
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aed58c5dd2bf8610800000000000000
+      internalID: 1625714654313832099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_11
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 2888
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bb654fcdc1bc210800000000000000
+      internalID: 1354207848272673568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2166
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04121be25d01e19c0800000000000000
+      internalID: -3954704914987278016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_13
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2166
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5f85338a3f89a60800000000000000
+      internalID: 7681157068221904307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_14
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 2166
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4506318e754c248d0800000000000000
+      internalID: -2863510531219431340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_15
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 2166
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c744a8da685bba70800000000000000
+      internalID: 8843759509196523460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_16
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 2166
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc082c83c1a60540800000000000000
+      internalID: 4973840699719421140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_17
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 2166
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e580462ec0ed5f0800000000000000
+      internalID: -730131923107029348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1444
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a635bdd92ff28f0800000000000000
+      internalID: -562964668594558417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_19
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1444
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bdb216cb548096c0800000000000000
+      internalID: -4138662527853478478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_20
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1444
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4189971ff54b55fb0800000000000000
+      internalID: -4659619915278739436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_21
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 1444
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085a22879640d34b0800000000000000
+      internalID: -5459202322269559424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_22
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 1444
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 067d35f63a3e85ef0800000000000000
+      internalID: -119095099038378144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_23
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 1444
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c28b3816548f120800000000000000
+      internalID: 2447782682599894172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 722
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3136288a9e1074e90800000000000000
+      internalID: -7041657389304356077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_25
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 722
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40465f9802b598d60800000000000000
+      internalID: 7892940017255146500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_26
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 722
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679970d5bbb166ac0800000000000000
+      internalID: -3862369138890008202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_27
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 722
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2331e54c3e29b4cd0800000000000000
+      internalID: -2572801255162375374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_28
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 722
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf86c591537a8660800000000000000
+      internalID: 7388844932897083326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_29
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 722
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba9c6bcd5cc2b890800000000000000
+      internalID: -7443662530873091406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7041c5d317c168fe0800000000000000
+      internalID: -1187230179079220217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_31
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 0
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90def8f7095e4760800000000000000
+      internalID: 7443985124867100827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_32
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 0
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93bbe910fbce4a30800000000000000
+      internalID: 4201519734470718367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_33
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 0
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e80e4477c78b880800000000000000
+      internalID: -8594983037138071945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_34
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 0
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa46ee540423aadd0800000000000000
+      internalID: -2474109793654119249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BACKIDLE_35
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 0
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b2117ec3a8e0b70800000000000000
+      internalID: 8867176710518418257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

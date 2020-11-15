@@ -1,0 +1,992 @@
+fileFormatVersion: 2
+guid: 3a0d9eaac7d60984289e229d3fde2f90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1090752106997315082
+    second: SIDEIDLE_0
+  - first:
+      213: 7270381698378632528
+    second: SIDEIDLE_1
+  - first:
+      213: -5032514128573411546
+    second: SIDEIDLE_2
+  - first:
+      213: 2115642255230466898
+    second: SIDEIDLE_3
+  - first:
+      213: -8078980446974115381
+    second: SIDEIDLE_4
+  - first:
+      213: -6040152885573354963
+    second: SIDEIDLE_5
+  - first:
+      213: 4675796397032853512
+    second: SIDEIDLE_6
+  - first:
+      213: 3492699278340057710
+    second: SIDEIDLE_7
+  - first:
+      213: 6003064883353592808
+    second: SIDEIDLE_8
+  - first:
+      213: -4232102945310763962
+    second: SIDEIDLE_9
+  - first:
+      213: -5128178778738375154
+    second: SIDEIDLE_10
+  - first:
+      213: -3283232643767499884
+    second: SIDEIDLE_11
+  - first:
+      213: -1009634532735423031
+    second: SIDEIDLE_12
+  - first:
+      213: -731027964974948821
+    second: SIDEIDLE_13
+  - first:
+      213: 9211286892159468538
+    second: SIDEIDLE_14
+  - first:
+      213: -7644886607479451590
+    second: SIDEIDLE_15
+  - first:
+      213: 130911606904026742
+    second: SIDEIDLE_16
+  - first:
+      213: -5453054150352496764
+    second: SIDEIDLE_17
+  - first:
+      213: -6193195314716453334
+    second: SIDEIDLE_18
+  - first:
+      213: 4749055694094439085
+    second: SIDEIDLE_19
+  - first:
+      213: 6090916777686708354
+    second: SIDEIDLE_20
+  - first:
+      213: 3310364168875991087
+    second: SIDEIDLE_21
+  - first:
+      213: 7853839428597958139
+    second: SIDEIDLE_22
+  - first:
+      213: -8464845113380895855
+    second: SIDEIDLE_23
+  - first:
+      213: -3778552286401268876
+    second: SIDEIDLE_24
+  - first:
+      213: -4261203733710192892
+    second: SIDEIDLE_25
+  - first:
+      213: 1399296105856164676
+    second: SIDEIDLE_26
+  - first:
+      213: -3411562080262912809
+    second: SIDEIDLE_27
+  - first:
+      213: -4428435452747998134
+    second: SIDEIDLE_28
+  - first:
+      213: -1431008981351533059
+    second: SIDEIDLE_29
+  - first:
+      213: -2202276097892428204
+    second: SIDEIDLE_30
+  - first:
+      213: 7524956158617291933
+    second: SIDEIDLE_31
+  - first:
+      213: 1410675533690110231
+    second: SIDEIDLE_32
+  - first:
+      213: 1263138592406410385
+    second: SIDEIDLE_33
+  - first:
+      213: 4224391627728659891
+    second: SIDEIDLE_34
+  - first:
+      213: -3587285143605821256
+    second: SIDEIDLE_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SIDEIDLE_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3610
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0675932341232f00800000000000000
+      internalID: 1090752106997315082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_1
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 3610
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d0c5172a595e460800000000000000
+      internalID: 7270381698378632528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_2
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 3610
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f4f3f301be82ab0800000000000000
+      internalID: -5032514128573411546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_3
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 3610
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b71d60c654c5d10800000000000000
+      internalID: 2115642255230466898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_4
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 3610
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc108c67612b1ef80800000000000000
+      internalID: -8078980446974115381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_5
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 3610
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a7952e3f01d2ca0800000000000000
+      internalID: -6040152885573354963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2888
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800d137bc04c3e040800000000000000
+      internalID: 4675796397032853512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_7
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2888
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ae8b01d7f887030800000000000000
+      internalID: 3492699278340057710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_8
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 2888
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3a9efa4bb2f4350800000000000000
+      internalID: 6003064883353592808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_9
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 2888
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6441edb3bcc8445c0800000000000000
+      internalID: -4232102945310763962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_10
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 2888
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e064a9c229c05d8b0800000000000000
+      internalID: -5128178778738375154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_11
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 2888
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49385494e4d9f62d0800000000000000
+      internalID: -3283232643767499884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2166
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd6653edbe0df1f0800000000000000
+      internalID: -1009634532735423031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_13
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 2166
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e9ac260fddad5f0800000000000000
+      internalID: -731027964974948821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_14
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 2166
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3806bff9015df70800000000000000
+      internalID: 9211286892159468538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_15
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 2166
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30db058228e7e590800000000000000
+      internalID: -7644886607479451590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_16
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 2166
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6767d72b96711d100800000000000000
+      internalID: 130911606904026742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_17
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 2166
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487154b442cd254b0800000000000000
+      internalID: -5453054150352496764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1444
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2656b99ca95d0aa0800000000000000
+      internalID: -6193195314716453334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_19
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1444
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da29b010ef808e140800000000000000
+      internalID: 4749055694094439085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_20
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1444
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280bb7ac988478450800000000000000
+      internalID: 6090916777686708354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_21
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 1444
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20e80b2ca6c0fd20800000000000000
+      internalID: 3310364168875991087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_22
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 1444
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5c98059517efc60800000000000000
+      internalID: 7853839428597958139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_23
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 1444
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1930b32d734d68a80800000000000000
+      internalID: -8464845113380895855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 722
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473ffc317b2ef8bc0800000000000000
+      internalID: -3778552286401268876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_25
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 722
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40fb2a0f7c92dd4c0800000000000000
+      internalID: -4261203733710192892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_26
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 722
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 443e42df46c4b6310800000000000000
+      internalID: 1399296105856164676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_27
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 722
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d48cbcfc52b7a0d0800000000000000
+      internalID: -3411562080262912809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_28
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 722
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c95382b690b82c0800000000000000
+      internalID: -4428435452747998134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_29
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 722
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df5f52cc9e8042ce0800000000000000
+      internalID: -1431008981351533059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456d9cf9e81ff61e0800000000000000
+      internalID: -2202276097892428204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_31
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 0
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c85c0e1c30e6860800000000000000
+      internalID: 7524956158617291933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_32
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 0
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7110fee7ce9b39310800000000000000
+      internalID: 1410675533690110231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_33
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 0
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194987e7bd1978110800000000000000
+      internalID: 1263138592406410385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_34
+      rect:
+        serializedVersion: 2
+        x: 2888
+        y: 0
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5a6eabdcd00aa30800000000000000
+      internalID: 4224391627728659891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SIDEIDLE_35
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 0
+        width: 722
+        height: 722
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0c65b0b27673ec0800000000000000
+      internalID: -3587285143605821256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
