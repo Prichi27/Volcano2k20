@@ -12,15 +12,22 @@ public class DialogueManager : MonoBehaviour
     public TextMeshProUGUI dialogueText;
     public Animator animator;
     public float waitForSecond = 0.2f;
+    public GameObject _player;
+    private bool _playerFlying;
 
 
     private void Start()
     {
         _sentences = new Queue<string>();
+        _playerFlying = _player.GetComponent<PlayerSkyMovement>().enabled;
     }
 
     public void StartDialogue(Dialogue dialogues)
     {
+        // Prevent player from walking during dialogue
+        _player.GetComponent<PlayerGroundMovement>().enabled = false;
+        _player.GetComponent<PlayerSkyMovement>().enabled = false;
+
         animator.SetBool("IsOpened", true);
 
         name.text = dialogues.name;
@@ -59,8 +66,15 @@ public class DialogueManager : MonoBehaviour
         }
     }
 
-    private void EndDialogue()
+    public void EndDialogue()
     {
+            _player.GetComponent<PlayerGroundMovement>().enabled = !_playerFlying;
+            _player.GetComponent<PlayerSkyMovement>().enabled = _playerFlying;
         animator.SetBool("IsOpened", false);
+    }
+
+    public bool DialogueIsOpen()
+    {
+        return animator.GetBool("IsOpened");
     }
 }
