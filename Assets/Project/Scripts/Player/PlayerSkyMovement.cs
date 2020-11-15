@@ -13,6 +13,7 @@ public class PlayerSkyMovement : MonoBehaviour
     private bool _isMovingForward;
 
     private float _rotation;
+    private bool _isLeftSide = false;
 
     private void Start()
     {
@@ -44,8 +45,23 @@ public class PlayerSkyMovement : MonoBehaviour
     {
         if(_isMovingForward)
         {
-            _rigidbody.velocity = transform.up * flySpeed * Time.fixedDeltaTime;
+            _rigidbody.velocity = transform.right * flySpeed * Time.fixedDeltaTime;
             _isMovingForward = false;
+
+            //Debug.Log(Mathf.DeltaAngle(0, transform.eulerAngles.z));
+
+            //if (Mathf.DeltaAngle(0, transform.eulerAngles.z) > 90 && !_isLeftSide)
+            //{
+            //    transform.eulerAngles = new Vector3(0, 180, transform.eulerAngles.z);
+            //    _isLeftSide = true;
+
+            //}
+
+            //else
+            //{
+            //    transform.eulerAngles = new Vector3(0, 180, transform.eulerAngles.z);
+
+            //}
         }
     }
 

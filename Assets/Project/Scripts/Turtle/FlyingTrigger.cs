@@ -53,6 +53,8 @@ public class FlyingTrigger : ItemInteract
             // Change Sprite
             _spriteRenderer.sprite = tortuga;
 
+            _player.GetComponent<Animator>().SetBool("Fly", true);
+
             // Hide turtle and remove its collider
             _turtle.GetComponent<Renderer>().enabled = false;
             _turtle.GetComponent<Collider2D>().enabled = false;
@@ -68,6 +70,9 @@ public class FlyingTrigger : ItemInteract
             _player.GetComponent<PlayerSkyMovement>().enabled = false;
 
             _spriteRenderer.sprite = _defaultSprite;
+
+            _player.GetComponent<Animator>().SetBool("Fly", false);
+
 
             // Reset player rotation
             _player.transform.rotation = Quaternion.Euler(0, 0, 0);
